@@ -1,2 +1,2 @@
-pynecone==0.1.21
+pynecone==0.1.20
 openai
